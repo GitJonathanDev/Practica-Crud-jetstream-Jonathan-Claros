@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.1/tailwind.min.css">
-    <title>Registrar persona</title>
+    <title>REGISTRAR PERSONA</title>
 </head>
 <body class="bg-gray-100 text-gray-800">
     <div class="container mx-auto my-10 p-6 bg-white rounded-lg shadow-md">
-        <h1 class="text-4xl font-bold text-center text-blue-600 mb-6">REGISTRAR PERSONAS</h1>
+        <h1 class="text-4xl font-bold text-center text-blue-600 mb-6">REGISTRAR PERSONA</h1>
         <hr class="mb-6">
         
         @if(session('success'))
